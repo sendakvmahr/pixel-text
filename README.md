@@ -1,1 +1,1 @@
-# pixel-text
+A quick Python script for rendering text from pixel fonts. 
